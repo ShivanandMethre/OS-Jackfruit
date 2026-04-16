@@ -114,3 +114,4 @@ if [[ "$INSERTED_BY_SCRIPT" -eq 1 ]]; then
 fi
 
 echo "Preflight passed."
+
