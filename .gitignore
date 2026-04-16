@@ -34,3 +34,4 @@ logs/
 .vscode/
 rootfs/
 rootfs/
+rootfs-base/
